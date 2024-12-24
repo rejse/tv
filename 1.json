@@ -1,1 +1,108 @@
-备用
+{
+    "urls": [
+        {
+            "url": "http://肥猫.com",
+            "name": "☃️肥猫☃️"
+        },
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "☃️荷城茶秀☃️"   
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "☃️饭太硬☃️"
+        },
+        {
+            "url": "http://fty.888484.xyz/tv",
+            "name": "☃️饭太硬2☃️"
+        },
+        {
+            "url": "http://fty.xxooo.cf/tv",
+            "name": "☃️饭太硬3☃️"              
+        },
+        {
+            "url": "https://mi.mpanso.me/DEMO.json",
+            "name": "🎄小米🎄"
+        },
+        {
+            "url": "https://9877.kstore.space/FourD/api.json",
+            "name": "🎄萧洒🎄"
+        },
+        {
+            "url": "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🎄南风🎄"
+        },
+        {      
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "🎄小马🎄"
+        },
+        {
+            "url": "http://www.fish2018.us.kg/z/FongMi.json",
+            "name": "🎄蜜蜂🎄"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "🎄影探🎄"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🎄巧技🎄"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "🎄骚零🎄"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🎄摸鱼儿🎄"     
+        },
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "🎄菜妮丝 🎄"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🎄王二小🎄"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🎄运输车🎄"
+        },
+        {
+            "url": "https://cf.weixine.net/ysc.json",
+            "name": "🎄运输车2🎄"
+        },
+        {
+            "url": "http://kxrj.site:55/天天开心",
+            "name": "🎄天天开心🎄"
+        },
+        {
+            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+            "name": "🎄短剧频道🎄"
+        },
+        {
+            "url": "https://d.kstore.dev/download/4684/xxdv.json",
+            "name": "🎄蓝色影视🎄"
+        },
+        {
+            "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
+            "name": "🎄业余打发🎄"
+        },
+        {
+            "url": "https://12448.kstore.space/Baipiao/tvbox/白嫖4K.json",
+            "name": "🎄白嫖4K🎄"
+        },
+        {
+            "url": "https://ddzb.fun/dgmusic/api.json",
+            "name": "🎄DG音乐🎄"               
+        },
+        {
+            "url": "https://notabug.org/rejse/TVbox/raw/master/rejse.txt",
+            "name": "🎅rejse🎅"
+        },
+        {
+            "url": "https://rejse.github.io/tv/2.json",
+            "name": "🎅rejse收集🎅"
+        }
+    ]
+}
